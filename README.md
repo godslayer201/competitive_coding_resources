@@ -1,1 +1,2 @@
-# competitive_coding_resources
+A resource for competitive coding.
+Made for personal usage.
